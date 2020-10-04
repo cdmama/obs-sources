@@ -20,7 +20,7 @@
     var clock;
     setInterval(
       clock = function() {
-          output.innerText = luxon.DateTime.local().toFormat('DD MMMM YYYY h:mma');
+          output.innerText = luxon.DateTime.local().toFormat('dd MMMM yyyy h:mma');
       },
       1000);
     clock();

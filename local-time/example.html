@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>OBS Local Time by Coding Mama</title>
+  <title>OBS Local Time Browser Source by Coding Mama</title>
   <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
   <style>
     #output {
@@ -20,7 +20,7 @@
     var clock;
     setInterval(
       clock = function() {
-          output.innerText = DateTime.local().toFormat('DD MMMM YYYY h:mma');
+          output.innerText = luxon.DateTime.local().toFormat('DD MMMM YYYY h:mma');
       },
       1000);
     clock();

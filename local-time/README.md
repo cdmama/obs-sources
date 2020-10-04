@@ -34,7 +34,7 @@ Back to `local-time.html`:
 
 On line 11 of `local-time.html`, change `16px` to a bigger or smaller value. (Don't forget to add `px` to the end of the number.)
 
-### Change the text colour
+### Changing the text colour
 
 On line 12 of `local-time.html`, change `pink` to a different colour (e.g. `blue`). You may also use hex colour values (e.g. `#ccffcc`).
 
@@ -46,7 +46,9 @@ For example, if you would like to display a date and time similar to *Friday Nov
 
 ### Placing the widget on your stream overlay
 
-Create a new browser source on your streaming software. On OBS Studio, tick **Local File** and click the Browse button. Select the `local-time.html` file.
+Create a new browser source on your streaming software. 
+
+* On OBS Studio, tick **Local File** and click the Browse button. Select `local-time.html` from your file system.
 
 ### Questions?
 

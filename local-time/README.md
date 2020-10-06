@@ -4,13 +4,9 @@ Place a widget on your stream overlay that displays your local time!
 
 ![How the Local Time widget looks on my stream overlay](images/overlay.jpg)
 
-
-## Example
-Click [here](https://cdmama.github.io/obs-sources/local-time/sample.html) to see a working example.
-
 ## How to Use
 
-Copy the code from [here](https://raw.githubusercontent.com/cdmama/obs-sources/master/local-time/sample.html) and save as an HTML file called `local-time.html`.
+Copy the code from [here](https://raw.githubusercontent.com/cdmama/obs-sources/master/local-time/sample.html) and save it as an HTML file called `local-time.html`.
 
 Open this file in your favourite code or text editor.
 

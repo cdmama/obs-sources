@@ -26,7 +26,7 @@ Back to `local-time.html`:
 
 * Replace line 10 (`font-family: 'Press Start 2P', cursive;`) with the code snippet in the second box.
 
-### Make the text bigger/smaller
+### Making the text bigger/smaller
 
 On line 11 of `local-time.html`, change `16px` to a bigger or smaller value. (Don't forget to add `px` to the end of the number.)
 
